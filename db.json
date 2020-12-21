@@ -1,14 +1,30 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "Row1": [
+    { "id": "", "name": "Лучшее" },
+    { "id": "photo", "name": "Фотография" },
+    { "id": "illustrations", "name": "Иллюстрация" },
+    { "id": "architecture", "name": "Архетиктура" },
+    { "id": "movement", "name": "Движение" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "Row2": [
+    { "id": "", "name": "" },
+    { "id": "", "name": "" },
+    { "id": "", "name": "" },
+    { "id": "", "name": "" },
+    { "id": "", "name": "" }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "Row3": [
+    { "id": "", "name": "" },
+    { "id": "", "name": "" },
+    { "id": "", "name": "" },
+    { "id": "", "name": "" },
+    { "id": "", "name": "" }
+  ],
+  "Row4": [
+    { "id": "", "name": "" },
+    { "id": "", "name": "" },
+    { "id": "", "name": "" },
+    { "id": "", "name": "" },
+    { "id": "", "name": "" }
+  ],
 }
